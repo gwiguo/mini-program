@@ -1,0 +1,7 @@
+{
+  "name": "update_thumb_up",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

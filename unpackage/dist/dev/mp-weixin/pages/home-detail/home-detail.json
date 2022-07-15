@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "文章详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "comments-box": "/components/comments-box/comments-box",
+    "like": "/components/like/like",
+    "u-parse": "/components/gaoyia-parse2/parse"
+  }
+}

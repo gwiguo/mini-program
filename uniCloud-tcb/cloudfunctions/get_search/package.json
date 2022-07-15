@@ -1,0 +1,7 @@
+{
+  "name": "get_search",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

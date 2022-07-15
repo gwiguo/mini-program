@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "关注",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "like": "/components/like/like",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "follow-author-list": "/components/follow-author-list/follow-author-list"
+  }
+}

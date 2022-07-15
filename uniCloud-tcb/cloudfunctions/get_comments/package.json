@@ -1,0 +1,7 @@
+{
+  "name": "get_coments",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

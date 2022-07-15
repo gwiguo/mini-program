@@ -1,0 +1,1 @@
+<view><van-icon class="icon" vue-id="006c20a2-1" color="{{is_like?'#f07373':''}}" name="{{is_like?'like':'like-o'}}" data-event-opts="{{[['^click',[['likeTap',['$event']]]]]}}" data-com-type="wx" catch:click="__e" bind:__l="__l"></van-icon></view>

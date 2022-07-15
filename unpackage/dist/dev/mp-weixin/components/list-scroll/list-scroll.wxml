@@ -1,0 +1,1 @@
+<view class="scroll"><scroll-view class="list-scroll" scroll-y="true"><block wx:for="{{100}}" wx:for-item="n" wx:for-index="__i0__"><view style="height:50px;display:flex;align-items:center;justify-content:center;font-size:24px;">{{n+1}}</view></block></scroll-view></view>

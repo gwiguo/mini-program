@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "navbar": "/components/navbar/navbar",
+    "like": "/components/like/like",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "tab": "/components/tab/tab",
+    "list-scroll": "/components/list-scroll/list-scroll"
+  }
+}

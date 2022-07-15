@@ -1,0 +1,7 @@
+{
+  "name": "insert_feedback",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
